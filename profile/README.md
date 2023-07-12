@@ -1,5 +1,7 @@
+
+
 <p align="center">
-<img style="width: 200px; border-radius: 20%;" src="./official-logo.svg">
+<img style="width: 200px;" src="https://github.com/FWDP/.github/assets/64355960/03b881f5-b9cc-4c56-b197-82952e03de77">
   <h1 align="center">Filipino Web Development Peers 🇵🇭</h1>
 </p>
 
@@ -12,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img style="width: 40px;" src="./dino-pink.png">&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img style="width: 178px;" src="./official-horizontal.png">&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img style="width: 40px;" src="./dino-blue.png">
+  <img style="width: 40px;" src="https://github.com/FWDP/.github/assets/64355960/b3fc4c91-3dad-4e50-b34c-b379f2d4b297">&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img style="width: 178px;" src="https://github.com/FWDP/.github/assets/64355960/0e8bb243-f52e-484b-9ceb-4e907052727b">&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img style="width: 40px;" src="https://github.com/FWDP/.github/assets/64355960/1a43fa91-f6d2-4594-aeea-5929b00ee9bb">
 </>
 
 <p style="text-align: justify">

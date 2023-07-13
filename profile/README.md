@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img style="width: 200px;" src="https://github.com/FWDP/.github/assets/64355960/03b881f5-b9cc-4c56-b197-82952e03de77">
+<img style="width: 140px;" src="https://github.com/FWDP/.github/assets/64355960/03b881f5-b9cc-4c56-b197-82952e03de77">
   <h1 align="center">Filipino Web Development Peers 🇵🇭</h1>
 </p>
 

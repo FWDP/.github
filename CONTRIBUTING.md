@@ -28,8 +28,8 @@ We welcome all skill levels. Learning is encouraged.
    - Do not push directly to `main`
 
 3. **Create a branch**
-    - feature/*<short-description>*
-    - hotfix/*<short-description>* (for production environments)
+    - feature/*"short-description"*
+    - hotfix/*"short-description"* (for production environments)
 
 4. **Make your changes**
 - Keep changes focused
